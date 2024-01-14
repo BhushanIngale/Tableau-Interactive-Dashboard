@@ -1,3 +1,3 @@
 # Tableau-Interactive-Dashboard
 
-![Alt text](relative%20path/to/Dashboard.png?raw=true "Tableau Interactive Dashboard")
+![alt text](https://github.com/BhushanIngale/Tableau-Interactive-Dashboard/blob/main/images/Dashboard.png)
